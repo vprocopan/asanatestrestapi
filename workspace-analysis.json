@@ -1,0 +1,16 @@
+{
+  "workspace_gid": "1211552601673091",
+  "workspace_name": "My workspace",
+  "admins_count": 4,
+  "admins_exceeded": false,
+  "admin_user_gids": [
+    "390097253881805",
+    "390097253881816",
+    "8516602069843",
+    "1211552601673079"
+  ],
+  "inactive_projects_count": 0,
+  "inactive_projects": [],
+  "active_external_users_count": 0,
+  "active_external_users": []
+}
